@@ -99,3 +99,12 @@ hr {
       display: block;
       text-align: center;
   }
+
+  @media (max-width: 767.98px) {
+    .col1, .col2 {
+        width: 100%;
+        display: flex;
+        flex-direction: ;
+    }
+
+}
