@@ -39,6 +39,7 @@
 
 .col1 p {
     text-align: right;
+    font-size: 1.2em;
 }
 
 .col1 h3 {
@@ -47,6 +48,7 @@
 
 .col2 p{
     text-align: left;
+    font-size: 1.2em;
 }
 
 .col1 img {
