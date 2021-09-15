@@ -74,3 +74,28 @@ hr {
     height: 5px;
     background-color: black;
 }
+
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #3a42b3;
+    border: none;
+    border-radius: 15px;
+  }
+
+  .button:hover {background-color: #2f4df3}
+  
+  .button:active {
+    background-color: #008299;
+  }
+
+  #align_button {
+      display: block;
+      text-align: center;
+  }
