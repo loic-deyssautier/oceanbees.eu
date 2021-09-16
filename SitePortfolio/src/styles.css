@@ -13,7 +13,7 @@
 
   body {
     /*background: linear-gradient(#76b6fa , #0264bb);*/
-    background: url("https://fathom.world/wp-content/uploads/2018/02/bigstock-Underwater-abstract-blue-ocean-120810602.jpg") no-repeat fixed;
+    background: url("assets/img/mer.jpg") no-repeat fixed;
     background-size: cover;
     background-position: 50%, 100%;
     height: 100%;
