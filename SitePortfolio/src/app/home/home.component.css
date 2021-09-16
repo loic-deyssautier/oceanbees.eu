@@ -180,7 +180,6 @@ hr {
         width: 90%;
         margin-left: 5%;
         margin-right: 5%;
-        margin-top: 1em;
     }
 
     .content_home_bis {
@@ -220,8 +219,8 @@ hr {
     }
 
     .col01 img {
-        width: 100%;
-        height: auto;
+        max-width: 100%;
+        padding-bottom: 1em;
     }
     .col1 img {
         max-width: 100%;
