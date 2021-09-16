@@ -119,6 +119,9 @@ hr {
   }
 
   @media (max-width: 767.98px) {
+    .logo {
+        max-width: 2.5em;
+    }
     .carousel-caption {
         font-size: 0.7em;
     }
